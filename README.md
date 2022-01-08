@@ -148,9 +148,3 @@ After you've set these environmental variables in the .env file at the root of t
 
 Now you can run "npm start" in the terminal and the application should work.
 
-## License
-
-[![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- MIT License
-- Copyright 2020 © [Maryam Aljanabi](https://github.com/maryamaljanabi)
