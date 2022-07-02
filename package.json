@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Maryam Aljanabi",
+  "author": "Mahmudul Islam",
   "license": "MIT",
   "dependencies": {
     "admin-bro": "^2.3.1",
